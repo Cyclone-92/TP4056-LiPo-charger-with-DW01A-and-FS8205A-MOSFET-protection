@@ -1,17 +1,6 @@
 <h1 align="center">
   TP4056 with DW01 Protection Circuit
 </h1>
-<p align="center">
-  <img src="images/tp4056-board.jpg" width="400" alt="TP4056 Module">
-</p>
-
-<div align="center">
-  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/tp4056-dw01)](https://github.com/yourusername/tp4056-dw01/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/tp4056-dw01)](https://github.com/yourusername/tp4056-dw01/stargazers)
-
-</div>
 
 ## 📝 Overview
 
